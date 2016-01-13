@@ -287,6 +287,7 @@
 		83C4518717BAFE3500C144DF /* HTMLSelector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTMLSelector.h; sourceTree = "<group>"; };
 		83C4518817BAFE3500C144DF /* HTMLSelector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTMLSelector.m; sourceTree = "<group>"; };
 		83C4518C17BB1FA400C144DF /* HTMLSelectorTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTMLSelectorTests.m; sourceTree = "<group>"; };
+		8A53408C1C462E1900245FD1 /* HTMLReader-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HTMLReader-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -357,6 +358,7 @@
 			isa = PBXGroup;
 			children = (
 				1C88294418369DD70051653C /* Info.plist */,
+				8A53408C1C462E1900245FD1 /* HTMLReader-Bridging-Header.h */,
 			);
 			path = Framework;
 			sourceTree = "<group>";
