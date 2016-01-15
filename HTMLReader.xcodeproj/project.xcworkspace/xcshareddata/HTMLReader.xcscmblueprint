@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3B7D84660CA0A4984AC45911801FC3F5070A6DC2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5315B288EFC1D2987A4E6C1BCB8E490B5EE3C98E" : 0,
+    "3B7D84660CA0A4984AC45911801FC3F5070A6DC2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F29BFBD9-CE64-4132-9812-93DB93975338",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5315B288EFC1D2987A4E6C1BCB8E490B5EE3C98E" : "..",
+    "3B7D84660CA0A4984AC45911801FC3F5070A6DC2" : "HTMLReader\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HTMLReader",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HTMLReader.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maximmalygin\/HTMLReader.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B7D84660CA0A4984AC45911801FC3F5070A6DC2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/maksym_malyhin\/message-content-extractor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5315B288EFC1D2987A4E6C1BCB8E490B5EE3C98E"
+    }
+  ]
+}
